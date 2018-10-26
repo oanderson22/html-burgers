@@ -1,8 +1,8 @@
 .bun-top {
-  height: 70px;
-  width: 60%;
+  height: 200px;
+  width: 100%;
   background: #e5b05a;
-  border-radius: 100px 100px 20px 20px;
+  border-radius: 500px 500px 50px 500px;
   border-bottom: solid 10px rgba(0,0,0,.1);
 }
 
@@ -40,19 +40,19 @@
 .pickle {
   height: 30px;
   width: 50%;
-  background: #3ac67d;
+  background: #d8c304;
   border-radius: 0 0 100px 100px;
-  border-bottom: solid 10px #2d9961;
+  border-bottom: solid 10px #fbff00;
 }
 
 .onion {
   width: 40%;
-  background-color: #a039bf;
+  background-color: #eeff01;
   border-top: dotted 20px rgba(255,255,255,.2);
 }
 
 .bun-bottom {
-  height: 35px;
+  height: 500px;
   width: 60%;
   background: #e5b05a;
   border-radius: 20px 20px 40px 40px;
@@ -64,4 +64,10 @@
   width: 80%;
   background: #656565;
   border-radius: 20px 20px 200px 200px;
+}
+.food {
+  background-image: https://pics.me.me/whats-your-minion-name-first-name-your-mommys-credit-card-28401533.png"
+  height: 400px;
+  width: 100%;
+  border-radius: 400px 400px 400px 400px;
 }
